@@ -1,0 +1,18 @@
+img {height:150px;
+width:150px;
+overflow: hidden;
+text-align: right;
+display: block;
+margin: auto}
+p{text-align:center;   font-size: 18px;
+font-family: Georgia, "Times New Roman", Times, serif;
+text-decoration: wavy;
+color: #5b2e48;}
+div{text-align:center;
+color: #4b1d3f;}
+body{background-color:rgb(243, 240, 214)}
+a{color:#4b1d3f}
+button{text-align:center;
+display:block;
+margin:auto}
+table{text-align:center;}
